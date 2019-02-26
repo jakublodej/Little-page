@@ -1,0 +1,38 @@
+
+body{
+  font-family: 'Laila';
+  color: #FFFFFF;
+  text-align: center;
+  background-color: #A89164;
+  border: 60px solid #F2F1EF;
+  border-top: 0px;
+  /*border-bottom: 0px;*/
+  margin: 0px;
+}
+
+p{
+  color: #F2F1EF;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+h2{
+  margin-bottom: 5%;
+}
+
+#sub{
+  border-radius: 25px;
+  background: #897752;
+  height: 80px;
+  width: 150px;
+  font-family: "Laila";
+  font-size: 1.2em;
+  margin-bottom: 4px;
+
+}
